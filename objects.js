@@ -1,3 +1,3 @@
 var playlist = {'Three Days Grace': 'Pain'};
 
-function updatePlaylist
+function updatePlaylist({playlist}, )
