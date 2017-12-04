@@ -1,2 +1,2 @@
-var playlist = {: 'Pain'};
+var playlist = {Three Days Grace: 'Pain'};
 
