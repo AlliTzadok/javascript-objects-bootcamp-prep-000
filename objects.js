@@ -1,5 +1,5 @@
 var playlist = {'Three Days Grace': 'Pain'};
 
-function updatePlaylist({playlist},){
-  return playlist.
+function updatePlaylist({playlist},){'Bush': 'Glycerine'};
+  return playlist.artistName
 }
