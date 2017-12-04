@@ -1,2 +1,2 @@
-var playlist = {Three Days Grace: 'Pain' };
+var playlist = {[artistNames]: 'Pain'};
 
